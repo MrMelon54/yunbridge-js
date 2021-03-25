@@ -1,0 +1,16 @@
+{
+  "name": "@mrmelon54/yunbridge",
+  "version": "0.0.1",
+  "description": "YunBridge in JavaScript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrmelon54/yunbridge-js"
+  },
+  "author": "MrMelon54",
+  "license": "ISC",
+  "dependencies": {
+    "json-over-tcp": "^0.3.2"
+  }
+}
